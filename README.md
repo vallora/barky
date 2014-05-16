@@ -1,4 +1,4 @@
 barky
 =====
 
-wiki b log-ish application
+node app that that allows users to post content to the web (because god knows we need another one)
