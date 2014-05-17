@@ -4,7 +4,8 @@
   "description": "write stuff",
   "main": "app.js",
   "dependencies": {
-    "express": "~4.2.0"
+    "express": "~4.2.0",
+    "morgan": "~1.0.1"
   },
   "devDependencies": {},
   "scripts": {
