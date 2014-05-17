@@ -1,0 +1,22 @@
+{
+  "name": "barky",
+  "version": "0.0.1",
+  "description": "write stuff",
+  "main": "app.js",
+  "dependencies": {
+    "express": "~4.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/vallora/barky.git"
+  },
+  "author": "",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/vallora/barky/issues"
+  }
+}
